@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Carteira De Clientes</string>
+    <string name="title_activity_principal">Clientes</string>
+    <string name="title_activity_cadastro_clientes">Cadastro Clientes</string>
+    <string name="lbl_nome">Nome</string>
+    <string name="lbl_endereco">Endereço</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_telefone">Telefone</string>
+    <string name="title_menu_ok">OK</string>
+    <string name="title_aviso">Aviso</string>
+    <string name="message_campos_invalidos_e_brancos">Há campos inválidos ou em branco!</string>
+    <string name="title_erro">Erro</string>
+    <string name="action_ok">OK</string>
+    <string name="title_menu_excluir">excluir</string>
+</resources>
